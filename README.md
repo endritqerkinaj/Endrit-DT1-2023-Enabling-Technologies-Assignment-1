@@ -41,6 +41,10 @@ Backend-Frontend Synthesis and Script Implementation
 ------
 • API Communication Scripting: Authored and embedded JavaScript within the Bubble platform, tying in API Design and Cloud Computing.
 
+
+Bubble link: https://endritqerkinaj1.bubbleapps.io/version-test?debug_mode=true
+
+
 Service Validation and Documentation
 ------
 • System Testing: The full-stack service's seamless operation was confirmed using curl as suggested in the supplementary materials, reinforcing API Design and Cloud Computing skills.
