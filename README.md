@@ -32,7 +32,6 @@ Cloud Infrastructure Deployment and Service Provisioning
 • Security Protocols Establishment: Firewalls were meticulously configured, illustrating the application of Cloud Computing knowledge.
 
 
-
 Frontend Development and API Integration
 ------
 • Bubble Frontend Architecture: Developed the service frontend on Bubble, showcasing the ability to create a user interface without code, as highlighted in the Bubble learning cycle.
@@ -41,12 +40,10 @@ Backend-Frontend Synthesis and Script Implementation
 ------
 • API Communication Scripting: Authored and embedded JavaScript within the Bubble platform, tying in API Design and Cloud Computing.
 
-
-Bubble link: https://endritqerkinaj1.bubbleapps.io/version-test?debug_mode=true
-
-
 Service Validation and Documentation
 ------
 • System Testing: The full-stack service's seamless operation was confirmed using curl as suggested in the supplementary materials, reinforcing API Design and Cloud Computing skills.
+
+Bubble link: https://endritqerkinaj1.bubbleapps.io/version-test?debug_mode=true
 
 • Documentation Finalization: The README was detailed to reflect the system architecture and deployment process.
